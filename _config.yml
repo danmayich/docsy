@@ -39,6 +39,9 @@ twitter: vsoch
 linkedin: vsochat
 dockerhub: vanessa
 
+# Enable Lunr.js offline search
+offlineSearch: true
+
 # These options are used to configure the locations of your version history when you want to serve versioned documents
 version_params:
   version_menu: "Release"
