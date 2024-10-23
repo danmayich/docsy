@@ -1,10 +1,5 @@
 # Docsy Jekyll Theme
 
-[![CircleCI](https://circleci.com/gh/vsoch/docsy-jekyll/tree/master.svg?style=svg)](https://circleci.com/gh/vsoch/docsy-jekyll/tree/master)
-
-
-![https://raw.githubusercontent.com/vsoch/docsy-jekyll/master/assets/img/docsy-jekyll.png](https://raw.githubusercontent.com/vsoch/docsy-jekyll/master/assets/img/docsy-jekyll.png)
-
 This is a [starter template](https://vsoch.github.com/docsy-jekyll/) for a Docsy jekyll theme, based
 on the Beautiful [Docsy](https://github.com/google/docsy) that renders with Hugo. This version is intended for
 native deployment on GitHub pages. The original [Apache License](https://github.com/vsoch/docsy-jekyll/blob/master/LICENSE) is included.
