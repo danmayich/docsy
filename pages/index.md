@@ -4,11 +4,11 @@ title: Docsy Jekyll Theme
 permalink: /
 ---
 
-# Welcome to Docsy Jekyll
+# Documentation Test
 
 This is a starter template for a docsy jekyll theme.
 
-![assets/img/docsy-jekyll.png](assets/img/docsy-jekyll.png)
+
 
 ## Purpose
 
