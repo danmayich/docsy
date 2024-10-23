@@ -29,10 +29,10 @@ baseurl: "/docsy" # the subpath of your site, e.g. /blog
 url: "https://vsoch.github.io" # the base hostname & protocol for your site
 
 # Social (First three Required)
-repo: "https://github.com/vsoch/docsy-jekyll"
-github_user: "vsoch"
-github_repo: "docsy-jekyll"
-github_branch: "master"
+repo: "https://github.com/businessrepo"
+github_user: "businessman"
+github_repo: "businessstuff"
+github_branch: "main"
 
 # Optional
 twitter: vsoch
@@ -47,7 +47,7 @@ version_params:
   versioning: true
 
   # Disable so older versions cannot be searched
-  allow_search: true  
+  allow_search: false  
 
   # Allow these versions to be searched
   search_versions:
